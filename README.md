@@ -18,3 +18,10 @@
 - Designing Data Intensive Applications by Martin Kleppman
 - System Design Interview by Alex Xu
 - Refactoring: Improving the Design of Existing Code by Martin Fowler
+
+## Notes 
+- [Head First Design Patterns by Eric Freeman](https://github.com/Sagor31h2/Design-Patterns)
+- [Designing Data Intensive Applications by Martin Kleppman](./HLD/Notes/DesignData-IntensiveApplication/README.md)
+
+## Implementations
+- [Code sample](./HLD/Implementation/)
